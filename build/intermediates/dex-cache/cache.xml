@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\jean.delgado\Desktop\SaudeCalculator\SaudeCalculator\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="92ffc925ee5794a5f4da0f5c254c4064e632649c">
+        <dex dex="C:\Users\jean.delgado\Desktop\SaudeCalculator\SaudeCalculator\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_8061b001837c8d5dacf007ee785a8a24de4414b2\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\jean.delgado\Desktop\SaudeCalculator\SaudeCalculator\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="C:\Users\jean.delgado\Desktop\SaudeCalculator\SaudeCalculator\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_cf6616694af0c0c47c657f3930a28fa9c4bbd947\classes.dex" />
+    </item>
+
+</items>
